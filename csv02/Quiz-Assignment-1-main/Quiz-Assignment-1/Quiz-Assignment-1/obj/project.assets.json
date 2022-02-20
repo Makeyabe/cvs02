@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAKE\\Downloads\\Quiz-Assignment-1-main\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\Quiz-Assignment-1.csproj",
+      "projectUniqueName": "C:\\Users\\MAKE\\Documents\\GitHub\\cvs02\\csv02\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\Quiz-Assignment-1.csproj",
       "projectName": "Quiz-Assignment-1",
-      "projectPath": "C:\\Users\\MAKE\\Downloads\\Quiz-Assignment-1-main\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\Quiz-Assignment-1.csproj",
+      "projectPath": "C:\\Users\\MAKE\\Documents\\GitHub\\cvs02\\csv02\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\Quiz-Assignment-1.csproj",
       "packagesPath": "C:\\Users\\MAKE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAKE\\Downloads\\Quiz-Assignment-1-main\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\obj\\",
+      "outputPath": "C:\\Users\\MAKE\\Documents\\GitHub\\cvs02\\csv02\\Quiz-Assignment-1-main\\Quiz-Assignment-1\\Quiz-Assignment-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
